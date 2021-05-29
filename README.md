@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Artificial Inteligence
+- 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: www.linkedin.com/in/luisgtsilva
+- 📫 How to reach me: <luis.tomaz@sistemafiep.org.br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gus-phys&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
