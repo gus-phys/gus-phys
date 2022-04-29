@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: <luis.tomaz@sistemafiep.org.br>
+- 📫 How to reach me: <luisgustavot.silva@gmail.com>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gus-phys&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anurag's github stats" />
