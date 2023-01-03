@@ -25,7 +25,7 @@ I am a Data Scientist and Physicist from Brazil 🇧🇷
 - 🔭 I have PhD in Cosmology
 - 🌱 I’m currently learning about Data Analysis and Data Visualization
 - 🔍 Researching data science solutions for small businesses
-- ⚡ In my free time, I like to ride my motorcycle
+- ⚡ I like ~old~ classic motorcycles, fix, ride and fix
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisgtsilva/)
 
 ---
