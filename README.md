@@ -9,9 +9,9 @@
   <a href="mailto:luisgustavot.silva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/14262158/luisgustavo">
+<!--   <a href="https://stackoverflow.com/users/14262158/luisgustavo">
     <img src="https://img.shields.io/badge/StackOverflow-white?logo=stackoverflow&logoColor=orange" alt="StackOverflow Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <h1 align="center">
@@ -25,7 +25,9 @@ I am a Data Scientist and Physicist from Brazil 🇧🇷
 - 🌌 PhD in Cosmology
 - 🌱 I’m currently learning about Natural Language Preprocessing
 - 🔍 Researching data science solutions for small businesses
-- ⚡ I like ~old~ classic motorcycles (fix, ride and fix)
+- 💡 Interested in computer vision
+- 🛵 I like ~old~ classic motorcycles (fix, ride and fix)
+- 🗣️ I'm intending to learn new languages (🇫🇷 :it: :es:)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luisgtsilva/)
 
 ---
